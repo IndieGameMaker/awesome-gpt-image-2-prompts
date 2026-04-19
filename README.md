@@ -999,42 +999,6 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节
 ```
 
-<!-- Case NEW12: Guangzhou Minimal City Illustration (by @liyue_ai) -->
-### Case NEW12: [Guangzhou Minimal City Illustration](https://x.com/liyue_ai/status/2045744531686166878) (by [@liyue_ai](https://x.com/liyue_ai))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGPxyjwbAAAYkgo.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-新中式极简风格高端城市海报，9:16竖版构图，以广州为核心主题，画面中心为抽象几何化的广州塔，造型简洁但具有辨识度，
-
-整体采用S型流动构图，从下方向上延展，珠江水系被设计为流动的水波纹与传统祥云纹样融合，环绕整个画面形成视觉动线，
-
-广州地标建筑以“留白+线描+局部色块”的方式点缀其中：珠江新城双塔、猎德大桥、白云山轮廓、岭南骑楼，
-传统与现代建筑自然融合，层次递进，远近虚实分明，
-
-风格控制：极简 + 高级 + 东方意境，不杂乱不过度写实，
-
-色彩方案（重点）：
-高饱和但克制 ，中国红、青蓝、鎏金为主色，
-辅以少量暖金高光点缀，形成强烈视觉冲击但不俗艳，
-
-背景：大面积纯净留白或淡宣纸肌理，增强呼吸感与高级感，
-
-细节：祥云与水纹具有轻微浮雕/烫金质感，
-局部加入微光粒子或流动光线，增强现代感，
-
-光影：柔和渐变光+局部高光，突出恢弘大气氛围，
-
-整体风格：国潮高级插画 / 品牌海报级质感 / 8K / 超清细节
-
----
-注：提示词经ChatGPT优化
-```
-
 ## Acknowledge
 
 This repository was inspired by outstanding open prompt collections and community-shared GPT-Image-2 experiments.
