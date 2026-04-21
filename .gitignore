@@ -24,5 +24,11 @@ Thumbs.db
 # py
 build_readme.py
 
+# Local prompt update artifacts
+tmp/
+result/
+
 # Local change log (not pushed to remote)
 CHANGES_LOCAL.md
+AGENTS.md
+gpt_image_2_prompt.json
